@@ -1,0 +1,27 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.navbar-brand{
+    font-weight: 700;
+    font-size: 22px;
+    margin-left: 10px;
+}
+.row{
+    margin-top: 90px;
+    margin-bottom: 90px;
+}
+.featurette{
+    margin-top: 150px;
+    margin-bottom: 125px;
+}
+.featurette img{
+    border-radius: 20%;
+}
+ .foot{
+     margin-top: 50px;
+ }
+ @media (max-width: 767px) { 
+    #navbarNav{
+        display:none;
+    }
+}
